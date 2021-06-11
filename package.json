@@ -1,7 +1,7 @@
 {
   "name": "release-version-generator",
   "version": "1.0.0",
-  "description": "Billie packager for generating semantic version descriptions.",
+  "description": "Packer for generating semantic version descriptions.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
