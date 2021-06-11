@@ -1,0 +1,9 @@
+# Dependency directory
+node_modules
+test-directory/
+
+# production
+/build
+
+# misc
+.env
